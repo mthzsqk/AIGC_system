@@ -1,0 +1,49 @@
+[
+  {
+    "id": "H001",
+    "title": "2024春季校园十佳歌手大赛",
+    "summary": "大型文艺活动，吸引全校2000人次参与，总预算3000元，使用多功能厅。",
+    "success_factor": "前期线上预热充分，海选阶段使用了短视频平台直播。"
+  },
+  {
+    "id": "H002",
+    "title": "AI前沿技术分享沙龙",
+    "summary": "小型学术讲座，50人参与，邀请了计算机学院教授，预算200元。",
+    "success_factor": "主题紧跟热点，互动环节设置了现场编程挑战。"
+  },
+  {
+    "id": "H003",
+    "title": "环保旧物改造义卖",
+    "summary": "户外公益活动，在操场举行，吸引了大量路人围观。",
+    "success_factor": "与手工艺社团合作，产品创意新颖，义卖款项捐赠透明。"
+  },
+  {
+    "id": "H004",
+    "title": "新生定向越野赛",
+    "summary": "全校范围的大型户外活动，需协调保卫处和多个场地。",
+    "success_factor": "路线设计避开了教学区，未影响正常上课，安全措施到位。"
+  },
+  {
+    "title": "2023 Fall Music Fest",
+    "type": "Music Festival",
+    "participants": 500,
+    "satisfaction": 7.5,
+    "feedback_summary": "The sound system was too quiet in the back row. The event started 30 minutes late.",
+    "improvement_suggestion": "改进建议：提前调试音响设备，确保全场音量均匀；严格制定并执行活动时间表，避免延迟开场。",
+    "source": "User Feedback Loop"
+  },
+  {
+    "id": "H005",
+    "title": "24小时极限编程黑客松",
+    "summary": "极客类活动，需连续使用场地24小时，网络保障要求极高。吸引了15支队伍。",
+    "success_factor": "拉到了阿里云的赞助，提供了免费算力和夜宵，选手体验极佳。",
+    "improvement_suggestion": "部分选手反映后半夜空调太冷，建议备好毛毯。"
+  },
+  {
+    "id": "H006",
+    "title": "国风游园会",
+    "summary": "文化类活动，结合汉服体验与传统游戏。使用了图书馆前广场。",
+    "success_factor": "视觉效果出众，成为了校园网红打卡点，朋友圈刷屏。",
+    "improvement_suggestion": "人流量过大导致排队混乱，需增加志愿者引导秩序。"
+  }
+]

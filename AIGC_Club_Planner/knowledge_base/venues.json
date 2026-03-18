@@ -1,0 +1,3173 @@
+[
+  {
+    "name": "D1-15",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "S3-426",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "体育场",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "学-310",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "工程实验楼-102",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "工程实验楼-106",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "工程实验楼-113",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "工程实验楼-114",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "工程实验楼-123",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "工程实验楼-125",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "工程实验楼-129",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "工程实验楼-131",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "工程实验楼-133",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "工程实验楼-135",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "工程实验楼-137",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "工程实验楼-201",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "工程实验楼-202",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "工程实验楼-205",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "工程实验楼-208",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "工程实验楼-209",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "工程实验楼-213",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "工程实验楼-218",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "工程实验楼-220",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "工程实验楼-231",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "工程实验楼-234",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "工程实验楼-238",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "工程实验楼-242",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "工程实验楼-301",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "工程实验楼-302",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "工程实验楼-305",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "工程实验楼-308",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "工程实验楼-309",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "工程实验楼-313",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "工程实验楼-314",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "工程实验楼-321",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "工程实验楼-323",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "工程实验楼-331",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "工程实验楼-411",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "工程实验楼-428",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-N103",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-N104",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-N105",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-N108",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-N110",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-N111",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-N113",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-N116",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-N118",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-N119",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-N201",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-N206",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-N207",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-N208",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-N209",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-N214",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-N215",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-N216",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-N301",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-N302",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-N307",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-N308",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-N309",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-N315",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-N318",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-N319",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-N327",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-N403",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-N404",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-N405",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-N411",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-N412",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-N415",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-N420",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-N423",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-N426",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-N507",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-N511",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-N513",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-N516",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-S103",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-S104",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-S106",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-S107",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-S109",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-S112",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-S113",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-S114",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-S118",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-S119",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-S202",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-S205",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-S207",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-S208",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-S210",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-S211",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-S215",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-S216",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-S301",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-S302",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-S307",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-S308",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-S318",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-S319",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-S323",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-S404",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-S406",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-S412",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-S414",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-S418",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-S422",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-S423",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-S502",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-S507",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-S508",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-S509",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-S510",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-S513",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-S518（预科）",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-S522（预科）",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "教学实验综合楼-S523（预科）",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "数媒楼311",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "数媒楼513",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "智慧教学楼-102",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "智慧教学楼-105",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "智慧教学楼-106",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "智慧教学楼-109",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "智慧教学楼-110",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "智慧教学楼-113",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "智慧教学楼-114",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "智慧教学楼-117",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "智慧教学楼-202",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "智慧教学楼-205",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "智慧教学楼-206",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "智慧教学楼-209",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "智慧教学楼-213",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "智慧教学楼-302",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "智慧教学楼-305",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "智慧教学楼-306",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "智慧教学楼-309",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "智慧教学楼-310",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "智慧教学楼-313",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "智慧教学楼-314",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "智慧教学楼-317",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "智慧教学楼-402",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "智慧教学楼-405",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "智慧教学楼-406",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "智慧教学楼-409",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "智慧教学楼-410",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "智慧教学楼-413",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "智慧教学楼-414",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "智慧教学楼-417",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "智慧教学楼-502",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "智慧教学楼-509",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "智慧教学楼-510",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "智慧教学楼-513",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "智慧教学楼-514",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "理学楼130",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "理学楼326",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "理学楼329",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "网安楼104",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "网安楼107",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "邮政楼108",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "邮政楼110",
+    "type": "Classroom",
+    "capacity": 60,
+    "equipment": [
+      "Projector",
+      "Blackboard",
+      "Wifi"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Lecture",
+      "Meeting",
+      "Workshop",
+      "Seminar"
+    ],
+    "availability": "Based on course schedule",
+    "description": "Standard classroom."
+  },
+  {
+    "name": "操场",
+    "type": "Outdoor",
+    "capacity": 500,
+    "equipment": [
+      "Lighting",
+      "Sound System"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Sports",
+      "Large Gathering",
+      "Outdoor Activity",
+      "Concert"
+    ],
+    "availability": "Evening only (18:00-22:00)",
+    "description": "School playground. Occupied during day time (08:00-18:00), free in evening (18:00-22:00)."
+  },
+  {
+    "name": "学生活动中心多功能厅",
+    "type": "Hall",
+    "capacity": 200,
+    "equipment": [
+      "Professional Audio",
+      "Stage Lighting",
+      "Large LED Screen",
+      "Wifi"
+    ],
+    "cost": 500,
+    "suitable_for": [
+      "Party",
+      "Performance",
+      "Large Lecture",
+      "Competition"
+    ],
+    "availability": "Weekend only",
+    "description": "Premium venue for large events. Requires booking 2 weeks in advance."
+  },
+  {
+    "name": "图书馆一楼大厅",
+    "type": "Exhibition Area",
+    "capacity": 100,
+    "equipment": [
+      "Display Boards",
+      "Spotlights"
+    ],
+    "cost": 0,
+    "suitable_for": [
+      "Exhibition",
+      "Fair",
+      "Showcase"
+    ],
+    "availability": "9:00-17:00",
+    "description": "Open area with high foot traffic. Good for exhibitions and recruitment."
+  },
+  {
+    "name": "三教报告厅",
+    "type": "Auditorium",
+    "capacity": 300,
+    "equipment": [
+      "Projector",
+      "Microphones",
+      "Podium",
+      "Wifi"
+    ],
+    "cost": 200,
+    "suitable_for": [
+      "Lecture",
+      "Conference",
+      "Movie Screening"
+    ],
+    "availability": "Evening and Weekend",
+    "description": "Standard auditorium with tiered seating."
+  }
+]

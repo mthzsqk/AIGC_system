@@ -1,0 +1,66 @@
+[
+  {
+    "id": "C001",
+    "name": "校园微信公众号矩阵",
+    "type": "Online",
+    "audience": "全校师生",
+    "cost": "需提前1周投稿审核",
+    "effectiveness": "高，覆盖面广"
+  },
+  {
+    "id": "C002",
+    "name": "食堂/宿舍楼宣传栏",
+    "type": "Offline",
+    "audience": "就餐/住宿学生",
+    "cost": "需申请盖章",
+    "effectiveness": "中，停留时间短，适合醒目海报"
+  },
+  {
+    "id": "C003",
+    "name": "校园广播站",
+    "type": "Audio",
+    "audience": "午休/晚饭时段全校",
+    "cost": "免费，需提前预约",
+    "effectiveness": "中，适合预告性内容"
+  },
+  {
+    "id": "C004",
+    "name": "小红书/抖音校园话题",
+    "type": "Social Media",
+    "audience": "活跃学生群体",
+    "cost": "免费，需高质量内容",
+    "effectiveness": "极高，易形成病毒式传播"
+  },
+  {
+    "id": "C005",
+    "name": "社团联合会QQ群/微信群",
+    "type": "Community",
+    "audience": "社团骨干、活跃分子",
+    "cost": "免费",
+    "effectiveness": "高，精准触达"
+  },
+  {
+    "id": "C006",
+    "name": "校园KOL/网红转发",
+    "type": "Social Media",
+    "audience": "全校师生",
+    "cost": "需协商（可能涉及费用或资源置换）",
+    "effectiveness": "极高，信任背书强"
+  },
+  {
+    "id": "C007",
+    "name": "线下路演/摆摊",
+    "type": "Offline",
+    "audience": "路过师生",
+    "cost": "需场地审批及物料费",
+    "effectiveness": "高，互动性最强"
+  },
+  {
+    "id": "C008",
+    "name": "合作社团联名推广",
+    "type": "Partnership",
+    "audience": "合作社团粉丝",
+    "cost": "资源置换",
+    "effectiveness": "中高，破圈效应明显"
+  }
+]

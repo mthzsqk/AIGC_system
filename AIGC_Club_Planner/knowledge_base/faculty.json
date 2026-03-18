@@ -1,0 +1,42 @@
+[
+  {
+    "id": "F001",
+    "name": "张教授",
+    "department": "计算机学院",
+    "expertise": ["人工智能", "大数据", "自然语言处理"],
+    "availability": "周三下午，周五全天",
+    "contact": "zhang@example.edu.cn"
+  },
+  {
+    "id": "F002",
+    "name": "李老师",
+    "department": "艺术设计学院",
+    "expertise": ["视觉传达", "多媒体艺术", "摄影"],
+    "availability": "周二上午，周四下午",
+    "contact": "li@example.edu.cn"
+  },
+  {
+    "id": "F003",
+    "name": "王主任",
+    "department": "校团委",
+    "expertise": ["学生活动管理", "社团指导", "创新创业"],
+    "availability": "工作日需提前预约",
+    "contact": "wang@example.edu.cn"
+  },
+  {
+    "id": "F004",
+    "name": "陈教练",
+    "department": "体育部",
+    "expertise": ["户外拓展", "团队建设", "急救培训"],
+    "availability": "周末全天",
+    "contact": "chen@example.edu.cn"
+  },
+  {
+    "id": "F005",
+    "name": "赵教授",
+    "department": "商学院",
+    "expertise": ["市场营销", "创业指导", "商业赞助谈判"],
+    "availability": "周一上午，周三下午",
+    "contact": "zhao@example.edu.cn"
+  }
+]

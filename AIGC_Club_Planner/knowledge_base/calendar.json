@@ -1,0 +1,66 @@
+{
+  "semester_start": "2026-03-02",
+  "semester": "2026 Spring",
+  "events": [
+    {
+      "date": "2026-03-02",
+      "event": "开学第一天",
+      "type": "Academic"
+    },
+    {
+      "date": "2026-03-14",
+      "event": "百团大战（社团招新）",
+      "type": "Club"
+    },
+    {
+      "date": "2026-03-15",
+      "event": "百团大战（社团招新）",
+      "type": "Club"
+    },
+    {
+      "date": "2026-04-04",
+      "event": "清明节假期",
+      "type": "Holiday"
+    },
+    {
+      "date": "2026-04-20",
+      "event": "期中考试周开始",
+      "type": "Exam"
+    },
+    {
+      "date": "2026-04-24",
+      "event": "期中考试周结束",
+      "type": "Exam"
+    },
+    {
+      "date": "2026-05-01",
+      "event": "劳动节假期开始",
+      "type": "Holiday"
+    },
+    {
+      "date": "2026-05-05",
+      "event": "劳动节假期结束",
+      "type": "Holiday"
+    },
+    {
+      "date": "2026-05-20",
+      "event": "校园520文化节",
+      "type": "Festival"
+    },
+    {
+      "date": "2026-06-01",
+      "event": "校运动会",
+      "type": "Sports"
+    },
+    {
+      "date": "2026-06-02",
+      "event": "校运动会",
+      "type": "Sports"
+    },
+    {
+      "date": "2026-06-22",
+      "event": "期末考试周开始",
+      "type": "Exam"
+    }
+  ]
+}

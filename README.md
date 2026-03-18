@@ -1,6 +1,6 @@
 # AIGC 智能社团策划系统 (AIGC Club Planner)
 
-这是一个基于 Python 和 DeepSeek 大模型的智能社团活动策划辅助系统。
+这是一个基于 Python 和 DeepSeek 大模型的智能社团活动策划辅助系统。 (Final Year Programming)
 
 ## 🚀 快速启动
 
